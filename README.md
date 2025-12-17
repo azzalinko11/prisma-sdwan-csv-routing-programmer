@@ -3,7 +3,8 @@ Upload BGP and Static routing details in Prisma SDWAN
 </h2>
 
 <br>
-pip3 install prisma_sase
+<br>
+Before Getting Started this script uses the prisma_sase sdk https://github.com/PaloAltoNetworks/prisma-sase-sdk-python - to install it run "pip3 install prisma_sase" 
 <br>
 Update the routing_data.csv with your data, some are static payloads you can change in the python script itself! it checks to see if the object exissts if so updates online, if not then creates it.
 <br>
