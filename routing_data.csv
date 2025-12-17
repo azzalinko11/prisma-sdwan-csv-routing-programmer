@@ -1,0 +1,3 @@
+site-name,ion-name,preflix-list-name,route-map-name,peer_name,peer_ip,peer-asn,route-map-out-name,description,vrf-name,static-route-name,static-route-dest-pfx,static-route-vrf-name,static-route-next-hop
+SHELLSITE,shell1,BLOCK-ALL,BLOCK-ALL,PEER1,192.168.12.1,123,BLOCK-ALL,peer-via-api,Global,VRFA-TO-PRISMA,0.0.0.0/0,Global,172.21.1.1
+SHELLSITE,shell1,BLOCK-ALL,BLOCK-ALL,PEER2,192.168.13.1,123,BLOCK-ALL,peer-via-api-2,WAN2,VRFB-TO-PRISMA,0.0.0.0/0,WAN2,172.21.2.1
