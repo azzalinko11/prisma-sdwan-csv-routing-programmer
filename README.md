@@ -12,7 +12,10 @@ set your creds in the prismasase_settings.py.example and change the extension by
 <br>
 <strong>To run: </strong> python3 ./route_csv_programmer.py with the CSV file in the same directory.
 <br>
+<br>
+<br>
 Output looks like this... 
+<br>
 <br>
 --- Logging in to Prisma SASE ---
 
